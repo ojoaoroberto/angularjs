@@ -1,0 +1,12 @@
+#imagem{
+    display: flex;
+    justify-content: center;
+    height: 800px;
+    align-items: center;
+}
+
+.tamanho{
+    width: 500px;
+    height: 400px;
+    
+}
